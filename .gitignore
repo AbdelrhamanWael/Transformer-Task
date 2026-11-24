@@ -1,9 +1,6 @@
-# Virtual environment
+# Virtual environment (OS-specific, recreate via pip install -r requirements.txt)
 .venv/
 venv/
-
-# Large pretrained model weights (>100 MB GitHub limit; regenerate via notebook)
-pretrained_model/
 
 # Python / Jupyter caches
 __pycache__/
