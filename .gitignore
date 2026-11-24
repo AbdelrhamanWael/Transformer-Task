@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+venv/
+
+# Large pretrained model weights (>100 MB GitHub limit; regenerate via notebook)
+pretrained_model/
+
+# Python / Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
